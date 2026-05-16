@@ -6,7 +6,7 @@ This project automates core Airbnb user flows using Playwright with TypeScript.
 
 Implemented scenarios:
 
-- Scenario A: Login flow validation
+- Scenario A: Login flow evaluation with documented automation constraints
 - Scenario B: Search flow and host extraction
 
 The framework follows the Page Object Model (POM) approach for better maintainability and scalability.
